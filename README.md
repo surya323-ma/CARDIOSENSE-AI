@@ -73,18 +73,17 @@ CardioSense-AI/
 ## 🚀 How to Run
 
 ### 1️⃣ Clone Repository
-```bash
 git clone https://github.com/surya323-ma/CARDIOSENSE-AI.git
 cd CARDIOSENSE-AI
-2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
 (If no requirements.txt, install manually:)
 
 pip install streamlit scikit-learn pandas numpy plotly
-3️⃣ Run App
+## 3️⃣ Run App
 streamlit run app.py
-📊 Dataset
+# 📊 Dataset
 Based on Heart Disease dataset
 Includes features like:
 Age
@@ -93,7 +92,7 @@ Blood Pressure
 Chest Pain Type
 Max Heart Rate
 ST Depression
-🧠 Machine Learning Pipeline
+# 🧠 Machine Learning Pipeline
 Data Preprocessing
 Feature Scaling (StandardScaler)
 KNN Regression Model
@@ -103,12 +102,11 @@ Risk Score Classification
 This application is for educational purposes only
 and NOT a substitute for medical diagnosis
 
-👨‍💻 Developer
-
+# 👨‍💻 Developer
 Surya Omar
 🚀 AI Developer | ML Engineer
 
-🌐 Live Demo
+# 🌐 Live Demo
 
 👉 https://neuroroute-ai.streamlit.app/
 
@@ -120,7 +118,7 @@ If you like this project:
 👉 Share with friends
 👉 Fork & contribute
 
-🏁 Future Improvements
+# 🏁 Future Improvements
 Deep Learning Model (ANN)
 Real-time ECG integration
 API deployment
