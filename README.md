@@ -125,4 +125,3 @@ API deployment
 Mobile app version
 <p align="center"> ❤️ Built with Passion + AI </p> ```
 
-## 📁 Project Structure
