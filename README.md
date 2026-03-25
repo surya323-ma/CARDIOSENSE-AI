@@ -108,7 +108,7 @@ Surya Omar
 
 # 🌐 Live Demo
 
-👉 https://neuroroute-ai.streamlit.app/
+👉
 
 ⭐ Support
 
